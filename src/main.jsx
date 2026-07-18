@@ -4,12 +4,12 @@ import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
 import "./styles.css";
 createRoot(document.getElementById('root')).render(
-  //<HashRouter>
+  <HashRouter>
      
 
-     // <App />
-   // </HashRouter>
-  <StrictMode>
+   <App />
+   </HashRouter>
+  {/*<StrictMode>
     <App />
-  </StrictMode>,
+  </StrictMode>,*/}
 )
