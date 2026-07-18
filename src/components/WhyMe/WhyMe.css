@@ -1,0 +1,37 @@
+.whyme{padding:120px 0;}
+
+.why-tag{text-align:center;color:#60a5fa;font-weight:700;letter-spacing:2px;margin-bottom:15px;}
+
+.whyme h2{text-align:center;font-size:48px;margin-bottom:60px;}
+
+.whyme h2 span{color:#60a5fa;}
+
+.why-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:30px;
+}
+
+.why-card{
+background:rgba(255,255,255,.05);
+border:1px solid rgba(255,255,255,.08);
+border-radius:20px;
+padding:35px;
+transition:.3s;
+}
+
+.why-card:hover{
+transform:translateY(-8px);
+border-color:#2563eb;
+}
+
+.why-icon{
+font-size:30px;
+margin-bottom:20px;
+color:#60a5fa;
+}
+
+.why-card p{
+color:#cbd5e1;
+line-height:1.8;
+}
