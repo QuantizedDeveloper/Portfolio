@@ -10,7 +10,4 @@ createRoot(document.getElementById('root')).render(
 
    <App />
    </HashRouter>
-  {/*<StrictMode>
-    <App />
-  </StrictMode>,*/}
 )
