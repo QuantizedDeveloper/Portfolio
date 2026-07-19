@@ -18,32 +18,22 @@ import "./styles.css";
 function App() {
   return (
     <>
-      <Navbar />
-      <Hero />
-      <About />
-      <Skills />
-      <Projects />
-      <Services />
-      <Process />
-      <Testimonials />
-      <Contact />
-      <Footer />
-      <Navbar />
-<Hero />
-<Stats />
-<About />
-<Skills />
-<TechStack />
-<Projects />
-<CaseStudy />
-<Services />
-<Process />
-<WhyMe />
-<FAQ />
-<Testimonials />
-<Contact />
-<Footer />
-    </>
+  <Navbar />
+  <Hero />
+  <Stats />
+  <About />
+  <Skills />
+  <TechStack />
+  <Projects />
+  <CaseStudy />
+  <Services />
+  <Process />
+  <WhyMe />
+  <FAQ />
+  <Testimonials />
+  <Contact />
+  <Footer />
+</>
   );
 }
 
