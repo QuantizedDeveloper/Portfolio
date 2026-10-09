@@ -28,7 +28,7 @@ backend systems and long-term collaborations.
 
 <a href="https://github.com/QuantizedDeveloper"><FiGithub/> GitHub</a>
 
-<a href="https://www.linkedin.com/in/ranveer-patel-472ba5422?utm_source=share_via&utm_content=profile&utm_medium=member_android"><FiLinkedin/> LinkedIn</a>
+<a href="https://discord.gg/96K5BSk2"><FiLinkedin/> Discord </a>
 
 </div>
 
