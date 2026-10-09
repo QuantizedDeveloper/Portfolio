@@ -15,7 +15,10 @@ return(
 I'm available for freelance work, SaaS development,
 backend systems and long-term collaborations.
 </p>
-
+<p>
+Flexible freelance pricing
+Available for project-based work, short-term contracts, and ongoing development support. Pricing depends on the project scope and requirements. Contact me for a quote.
+</p>
 <div className="contact-links">
 
 <a
